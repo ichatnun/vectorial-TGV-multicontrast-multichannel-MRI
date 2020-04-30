@@ -18,13 +18,11 @@ MC-TGV-SENSE is a better alternative than the existing reconstruction methods fo
 
 Main Files
 ------
-* **script_TSE3Contrasts.m** is the main file. The data are too big to be included in this repository. Please contact me directly for example data.
+* **script_TSE3Contrasts.m** is the main file.
 
 * **MC_TGV_SENSE_SB.m** contains the ADMM implementation of multi-channel MRI with multi-contrast TGV regularization.
 
 * **MC_TV_SENSE_SB.m** contains the ADMM implementation of multi-channel MRI with multi-contrast TV regularization.
 
-
-
-
+The data files are too big to be included in this repository. Please contact me directly for example data.
 
