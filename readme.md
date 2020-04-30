@@ -1,6 +1,7 @@
-
-Implementation of the proposed methods described in [Vectorial total generalized variation for accelerated multi-channel multi-contrast MRI](https://www.sciencedirect.com/science/article/abs/pii/S0730725X16300704)
-and my Ph.D. thesis entitled [Acquisition and reconstruction methods for magnetic resonance imaging](https://dspace.mit.edu/handle/1721.1/105570).
+Vectorial total generalized variation for accelerated multi-channel multi-contrast MRI
+---
+ 
+Implementation of the proposed methods described in [Vectorial total generalized variation for accelerated multi-channel multi-contrast MRI](https://www.sciencedirect.com/science/article/abs/pii/S0730725X16300704). For more complete technical details, please refer to my Ph.D. thesis entitled [Acquisition and reconstruction methods for magnetic resonance imaging](https://dspace.mit.edu/handle/1721.1/105570).
 
 Overview
 ------
